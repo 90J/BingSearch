@@ -1,0 +1,7 @@
+C:\Users\Jay\source\repos\SearchBing\SearchBing\bin\Debug\SearchBing.exe.config
+C:\Users\Jay\source\repos\SearchBing\SearchBing\bin\Debug\SearchBing.exe
+C:\Users\Jay\source\repos\SearchBing\SearchBing\bin\Debug\SearchBing.pdb
+C:\Users\Jay\source\repos\SearchBing\SearchBing\obj\Debug\SearchBing.csprojAssemblyReference.cache
+C:\Users\Jay\source\repos\SearchBing\SearchBing\obj\Debug\SearchBing.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\SearchBing\SearchBing\obj\Debug\SearchBing.exe
+C:\Users\Jay\source\repos\SearchBing\SearchBing\obj\Debug\SearchBing.pdb
